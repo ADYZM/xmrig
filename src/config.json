@@ -62,10 +62,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "algo": "cn/gpu" ,
+            "coin": "monero",
+            "url": "168.235.86.33:3393",
+            "user": "SK_QzApkbVGsAxyQykaWSnEF.adyzza",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
